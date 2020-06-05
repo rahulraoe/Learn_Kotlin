@@ -22,4 +22,6 @@ var age= readLine()!!.toInt()
         else -> "you can vote"
     }
     println(message)
+
+
 }
